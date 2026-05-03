@@ -1,0 +1,5 @@
+[
+  { "timestamp": "12:00", "avg_temp": 18.0, "avg_hum": 60 },
+  { "timestamp": "12:05", "avg_temp": 18.1, "avg_hum": 61 },
+  { "timestamp": "12:10", "avg_temp": 18.2, "avg_hum": 60 }
+]

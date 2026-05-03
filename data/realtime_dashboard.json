@@ -1,0 +1,30 @@
+{
+  "systemStatus": {
+    "mode": "Study Mode",
+    "color": "#48bb78",
+    "ledState": "Green"
+  },
+  "environment": [
+    { "id": "t1", "name": "Temperature", "value": "22.5", "unit": "°C" },
+    { "id": "h1", "name": "Humidity", "value": "45", "unit": "%" },
+    { "id": "a1", "name": "Air Quality", "value": "Good", "unit": "" },
+    { "id": "l1", "name": "Light Level", "value": "Optimized", "unit": "" },
+    { "id": "p1", "name": "Posture Distance", "value": "55", "unit": "cm" },
+    { "id": "ph1", "name": "Phone Detected", "value": "Away", "unit": "" }
+  ],
+  "dailyStats": {
+    "totalStudyTime": "3h 15m",
+    "numberOfSessions": 3,
+    "focusTime": "2h 50m",
+    "interruptions": 4
+  },
+  "weeklyStats": {
+    "avgSessionDuration": "45m",
+    "mostProductiveDay": "Tuesday"
+  },
+  "coolMetrics": {
+    "longestFocusSession": "1h 20m",
+    "avgInterruptionRate": "1.2 / hr",
+    "focusScore": 87
+  }
+}
